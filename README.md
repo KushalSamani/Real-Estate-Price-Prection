@@ -1,1 +1,1 @@
-# Real-Estate-Price-Prection
+A Machine Learning Model to predict Home Prices in Bangalore City
